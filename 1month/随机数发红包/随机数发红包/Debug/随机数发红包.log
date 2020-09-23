@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\isyuf\OneDrive\Code\C++\1month\2_week\随机数发红包\随机数发红包\源.cpp(30,23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\isyuf\OneDrive\Code\C++\1month\2_week\随机数发红包\随机数发红包\源.cpp(33,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\isyuf\OneDrive\Code\C++\1month\2_week\随机数发红包\随机数发红包\源.cpp(42,42): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  随机数发红包.vcxproj -> C:\Users\isyuf\OneDrive\Code\C++\1month\2_week\随机数发红包\Debug\随机数发红包.exe
