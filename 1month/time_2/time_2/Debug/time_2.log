@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\time_2\time_2\源.cpp(14,17): error C2143: 语法错误: 缺少“)”(在“<”的前面)
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\time_2\time_2\源.cpp(14,17): error C2660: “localtime_s”: 函数不接受 0 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(569,47): message : 参见“localtime_s”的声明
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\time_2\time_2\源.cpp(14,19): error C2065: “m”: 未声明的标识符
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\time_2\time_2\源.cpp(14,26): error C2059: 语法错误:“)”

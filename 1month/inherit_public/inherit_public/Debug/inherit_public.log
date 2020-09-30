@@ -1,0 +1,10 @@
+﻿  源.cpp
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\inherit_public\inherit_public\源.cpp(38,17): error C2248: “A::a3”: 无法访问 private 成员(在“A”类中声明)
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\inherit_public\inherit_public\源.cpp(25): message : 参见“A::a3”的声明
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\inherit_public\inherit_public\源.cpp(5): message : 参见“A”的声明
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\inherit_public\inherit_public\源.cpp(45,14): error C2248: “A::a2”: 无法访问 protected 成员(在“A”类中声明)
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\inherit_public\inherit_public\源.cpp(23): message : 参见“A::a2”的声明
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\inherit_public\inherit_public\源.cpp(5): message : 参见“A”的声明
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\inherit_public\inherit_public\源.cpp(46,14): error C2248: “A::a3”: 无法访问 private 成员(在“A”类中声明)
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\inherit_public\inherit_public\源.cpp(25): message : 参见“A::a3”的声明
+C:\Users\isyuf\OneDrive\Code\C++\1month\3_week\inherit_public\inherit_public\源.cpp(5): message : 参见“A”的声明
